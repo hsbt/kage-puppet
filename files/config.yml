@@ -1,0 +1,4 @@
+production:
+  :host: 'your.example.com'
+  :production: 'production.example.com'
+  :sandbox: 'staging.example.com'
